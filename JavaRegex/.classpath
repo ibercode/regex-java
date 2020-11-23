@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/rminciun/Downloads/assertj-core-3.18.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
